@@ -5,7 +5,7 @@ $(function() {
 
 	$('.footer-powered').hide();  // or .remove();
 
-	$('.navbar-home').html('<img class="erpnext-icon" src="https://www.digiwinx.com/images/logo.png"/>');
+	$('.navbar-home').html('<img class="erpnext-icon" src="/assets/account_report/images/Favicon-32x32.png"/>');
 
 });
 

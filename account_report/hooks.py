@@ -122,7 +122,7 @@ web_include_js = "/assets/account_report/js/account_report.js"
 
 
 website_context = {
-	"favicon": 	"/assets/account_report/images/logo.png",
+	"favicon": 	"/assets/account_report/images/Favicon-32x32.png",
 	"splash_image": "/assets/account_report/images/logo.png"
 }
 

@@ -8,7 +8,7 @@ app_publisher = "Scantech Laser"
 app_description = "Account Report"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "it@scantechlaser.com"
+app_email = "hello@digiwinx.com"
 app_license = "MIT"
 
 # Includes in <head>

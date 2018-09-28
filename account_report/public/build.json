@@ -1,0 +1,8 @@
+{
+  "account_report/js/account_report.js": [
+    "public/js/account_report/account_report.js",
+  ]
+"account_report/css/account_report.css": [
+		"public/css/account_report.css"
+	]
+}

@@ -1,0 +1,5 @@
+
+/* .module-section:nth-last-child(1) {display:none !important} */
+
+
+.module-section:last-of-type > .module-section-column:last-of-type {display:none !important;}
